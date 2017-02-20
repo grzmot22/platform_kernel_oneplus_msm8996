@@ -22,7 +22,6 @@
 #include <linux/qpnp/pwm.h>
 #include <linux/err.h>
 #include <linux/string.h>
-#include <linux/project_info.h>
 #include <linux/display_state.h>
 
 #include "mdss_dsi.h"
